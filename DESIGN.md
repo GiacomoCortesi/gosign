@@ -26,7 +26,7 @@ go test -v ./...
 You can use godoc to display package documentation
 
 ```
-go get golang.org/x/tools/cmd/godoc
+go install golang.org/x/tools/cmd/godoc@latest
 
 cd gosign
 
